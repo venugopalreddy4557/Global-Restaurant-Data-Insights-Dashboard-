@@ -80,3 +80,6 @@ This Power BI dashboard effectively transforms raw restaurant data into actionab
 It highlights key market trends, customer preferences, pricing strategies, and the impact of online delivery on customer ratings.
 
 The project not only showcases strong Power BI skills but also demonstrates your ability to analyze real-world datasets and present insights clearly — perfect for your portfolio and job applications.
+
+Screen shot for the Project
+File:  https://github.com/venugopalreddy4557/Global-Restaurant-Data-Insights-Dashboard-/blob/main/Screenshot%20(3).png
